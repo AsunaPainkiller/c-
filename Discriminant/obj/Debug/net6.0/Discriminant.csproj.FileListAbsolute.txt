@@ -1,0 +1,16 @@
+C:\Users\79885\Desktop\C#\Discriminant\obj\Debug\net6.0\Discriminant.GlobalUsings.g.cs
+C:\Users\79885\Desktop\C#\Discriminant\obj\Debug\net6.0\Discriminant.csproj.AssemblyReference.cache
+C:\Users\79885\Desktop\C#\Discriminant\obj\Debug\net6.0\Discriminant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79885\Desktop\C#\Discriminant\obj\Debug\net6.0\Discriminant.AssemblyInfoInputs.cache
+C:\Users\79885\Desktop\C#\Discriminant\obj\Debug\net6.0\Discriminant.AssemblyInfo.cs
+C:\Users\79885\Desktop\C#\Discriminant\obj\Debug\net6.0\Discriminant.csproj.CoreCompileInputs.cache
+C:\Users\79885\Desktop\C#\Discriminant\bin\Debug\net6.0\Discriminant.exe
+C:\Users\79885\Desktop\C#\Discriminant\bin\Debug\net6.0\Discriminant.deps.json
+C:\Users\79885\Desktop\C#\Discriminant\bin\Debug\net6.0\Discriminant.runtimeconfig.json
+C:\Users\79885\Desktop\C#\Discriminant\bin\Debug\net6.0\Discriminant.dll
+C:\Users\79885\Desktop\C#\Discriminant\bin\Debug\net6.0\ref\Discriminant.dll
+C:\Users\79885\Desktop\C#\Discriminant\bin\Debug\net6.0\Discriminant.pdb
+C:\Users\79885\Desktop\C#\Discriminant\obj\Debug\net6.0\Discriminant.dll
+C:\Users\79885\Desktop\C#\Discriminant\obj\Debug\net6.0\ref\Discriminant.dll
+C:\Users\79885\Desktop\C#\Discriminant\obj\Debug\net6.0\Discriminant.pdb
+C:\Users\79885\Desktop\C#\Discriminant\obj\Debug\net6.0\Discriminant.genruntimeconfig.cache

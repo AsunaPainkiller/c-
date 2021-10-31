@@ -1,0 +1,6 @@
+C:\Users\79885\Desktop\C#\Graph\obj\Debug\net6.0\Graph.GlobalUsings.g.cs
+C:\Users\79885\Desktop\C#\Graph\obj\Debug\net6.0\Graph.csproj.AssemblyReference.cache
+C:\Users\79885\Desktop\C#\Graph\obj\Debug\net6.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79885\Desktop\C#\Graph\obj\Debug\net6.0\Graph.AssemblyInfoInputs.cache
+C:\Users\79885\Desktop\C#\Graph\obj\Debug\net6.0\Graph.AssemblyInfo.cs
+C:\Users\79885\Desktop\C#\Graph\obj\Debug\net6.0\Graph.csproj.CoreCompileInputs.cache
