@@ -1,0 +1,16 @@
+C:\Users\79885\Desktop\C#\practicum\obj\Debug\net6.0\practicum.GlobalUsings.g.cs
+C:\Users\79885\Desktop\C#\practicum\obj\Debug\net6.0\practicum.csproj.AssemblyReference.cache
+C:\Users\79885\Desktop\C#\practicum\obj\Debug\net6.0\practicum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79885\Desktop\C#\practicum\obj\Debug\net6.0\practicum.AssemblyInfoInputs.cache
+C:\Users\79885\Desktop\C#\practicum\obj\Debug\net6.0\practicum.AssemblyInfo.cs
+C:\Users\79885\Desktop\C#\practicum\obj\Debug\net6.0\practicum.csproj.CoreCompileInputs.cache
+C:\Users\79885\Desktop\C#\practicum\bin\Debug\net6.0\practicum.exe
+C:\Users\79885\Desktop\C#\practicum\bin\Debug\net6.0\practicum.deps.json
+C:\Users\79885\Desktop\C#\practicum\bin\Debug\net6.0\practicum.runtimeconfig.json
+C:\Users\79885\Desktop\C#\practicum\bin\Debug\net6.0\practicum.dll
+C:\Users\79885\Desktop\C#\practicum\bin\Debug\net6.0\ref\practicum.dll
+C:\Users\79885\Desktop\C#\practicum\bin\Debug\net6.0\practicum.pdb
+C:\Users\79885\Desktop\C#\practicum\obj\Debug\net6.0\practicum.dll
+C:\Users\79885\Desktop\C#\practicum\obj\Debug\net6.0\ref\practicum.dll
+C:\Users\79885\Desktop\C#\practicum\obj\Debug\net6.0\practicum.pdb
+C:\Users\79885\Desktop\C#\practicum\obj\Debug\net6.0\practicum.genruntimeconfig.cache
