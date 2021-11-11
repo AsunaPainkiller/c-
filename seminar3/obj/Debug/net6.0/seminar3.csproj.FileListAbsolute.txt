@@ -1,0 +1,16 @@
+C:\Users\79885\Desktop\C#\seminar3\obj\Debug\net6.0\seminar3.GlobalUsings.g.cs
+C:\Users\79885\Desktop\C#\seminar3\obj\Debug\net6.0\seminar3.csproj.AssemblyReference.cache
+C:\Users\79885\Desktop\C#\seminar3\obj\Debug\net6.0\seminar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79885\Desktop\C#\seminar3\obj\Debug\net6.0\seminar3.AssemblyInfoInputs.cache
+C:\Users\79885\Desktop\C#\seminar3\obj\Debug\net6.0\seminar3.AssemblyInfo.cs
+C:\Users\79885\Desktop\C#\seminar3\obj\Debug\net6.0\seminar3.csproj.CoreCompileInputs.cache
+C:\Users\79885\Desktop\C#\seminar3\bin\Debug\net6.0\seminar3.exe
+C:\Users\79885\Desktop\C#\seminar3\bin\Debug\net6.0\seminar3.deps.json
+C:\Users\79885\Desktop\C#\seminar3\bin\Debug\net6.0\seminar3.runtimeconfig.json
+C:\Users\79885\Desktop\C#\seminar3\bin\Debug\net6.0\seminar3.dll
+C:\Users\79885\Desktop\C#\seminar3\bin\Debug\net6.0\ref\seminar3.dll
+C:\Users\79885\Desktop\C#\seminar3\bin\Debug\net6.0\seminar3.pdb
+C:\Users\79885\Desktop\C#\seminar3\obj\Debug\net6.0\seminar3.dll
+C:\Users\79885\Desktop\C#\seminar3\obj\Debug\net6.0\ref\seminar3.dll
+C:\Users\79885\Desktop\C#\seminar3\obj\Debug\net6.0\seminar3.pdb
+C:\Users\79885\Desktop\C#\seminar3\obj\Debug\net6.0\seminar3.genruntimeconfig.cache
