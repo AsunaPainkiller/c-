@@ -188,4 +188,85 @@ for (int v = 0; v < f; Console.WriteLine($"n = {n}"))
     n++;
 }
     break;
+    case 8:
+Console.WriteLine("Задание №8 ");
+Console.WriteLine("Введите n чтобы увидеть числа от 1 до n ");
+
+int h = Convert.ToInt32(Console.ReadLine());
+
+for (int g = 0; g < h; Console.WriteLine($"n = {g}"))
+{
+    g++;
+}
+    break;
+    case 9:
+Console.WriteLine("Задание №9 ");
+Console.WriteLine("Введите трёхзначное число чтобы узнать его третью цифру ");
+
+/*int third = Convert.ToInt32(Console.ReadLine());
+
+if (third>99 && third<1000)
+{
+
+}
+else
+{
+    Console.WriteLine("Вы ввели не трёхзначное число ");
+}*/
+string third =Console.ReadLine();
+int th = Convert.ToInt32(third);
+if (th>99)
+{
+    Console.WriteLine($"Третья цифра числа - {third[2]}");
+}
+else
+{
+    Console.WriteLine($"Третьей цифры у числа нет, либо оно отрицательное и проверено ниже ");
+}
+if (th<(-99))
+{
+    Console.WriteLine($"Третья цифра числа - {third[3]}");
+}
+else
+{
+    Console.WriteLine($"Третьей цифры у числа однозначно нет ");
+}
+    break;
+    case 10:
+Console.WriteLine("Задание №10 ");
+Console.WriteLine("Введите трёхзначное число чтобы узнать его вторую цифру ");
+
+string sec =Console.ReadLine();
+int sc = Convert.ToInt32(sec);
+
+if (sc>99)
+{
+    Console.WriteLine($"Вторая цифра числа - {sec[1]}");
+}
+else
+{
+    Console.WriteLine($"Вторая цифры у числа нет, либо оно отрицательное и проверено ниже ");
+}
+if (sc<(-99))
+{
+    Console.WriteLine($"Вторая цифра числа - {sec[2]}");
+}
+else
+{
+    Console.WriteLine($"Второй цифры у числа однозначно нет ");
+}
+    break;
+    case 11:
+Console.WriteLine("Задание №11 ");
+Console.WriteLine("Введите число из отрезка [10;99] чтобы узнать наибольшую цифру числа ");
+
+string one11 =Console.ReadLine();
+int on11 = Convert.ToInt32(one11);
+
+if (on11>9 && on11<100)
+{
+    
+}
+
+    break;
 }
