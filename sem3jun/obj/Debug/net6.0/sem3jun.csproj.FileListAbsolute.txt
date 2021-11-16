@@ -1,0 +1,16 @@
+C:\Users\79885\Desktop\C#\sem3jun\bin\Debug\net6.0\sem3jun.exe
+C:\Users\79885\Desktop\C#\sem3jun\bin\Debug\net6.0\sem3jun.deps.json
+C:\Users\79885\Desktop\C#\sem3jun\bin\Debug\net6.0\sem3jun.runtimeconfig.json
+C:\Users\79885\Desktop\C#\sem3jun\bin\Debug\net6.0\sem3jun.dll
+C:\Users\79885\Desktop\C#\sem3jun\bin\Debug\net6.0\ref\sem3jun.dll
+C:\Users\79885\Desktop\C#\sem3jun\bin\Debug\net6.0\sem3jun.pdb
+C:\Users\79885\Desktop\C#\sem3jun\obj\Debug\net6.0\sem3jun.GlobalUsings.g.cs
+C:\Users\79885\Desktop\C#\sem3jun\obj\Debug\net6.0\sem3jun.csproj.AssemblyReference.cache
+C:\Users\79885\Desktop\C#\sem3jun\obj\Debug\net6.0\sem3jun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79885\Desktop\C#\sem3jun\obj\Debug\net6.0\sem3jun.AssemblyInfoInputs.cache
+C:\Users\79885\Desktop\C#\sem3jun\obj\Debug\net6.0\sem3jun.AssemblyInfo.cs
+C:\Users\79885\Desktop\C#\sem3jun\obj\Debug\net6.0\sem3jun.csproj.CoreCompileInputs.cache
+C:\Users\79885\Desktop\C#\sem3jun\obj\Debug\net6.0\sem3jun.dll
+C:\Users\79885\Desktop\C#\sem3jun\obj\Debug\net6.0\ref\sem3jun.dll
+C:\Users\79885\Desktop\C#\sem3jun\obj\Debug\net6.0\sem3jun.pdb
+C:\Users\79885\Desktop\C#\sem3jun\obj\Debug\net6.0\sem3jun.genruntimeconfig.cache
