@@ -1,4 +1,4 @@
-﻿/*
+/*
 Почувствуй себя интерном
 0. Вывести квадрат числа
 1. По двум заданным числам проверять является ли первое квадратом второго
@@ -72,58 +72,53 @@ Console.WriteLine("Введите число от 1 до 7-ми, чтобы по
 
 int dayoftheweek = Convert.ToInt32(Console.ReadLine());
 int i = 0;
-   /* while (i == 0)
-    {
-        if ((dayoftheweek <= 0 && dayoftheweek >= 8) && (dayoftheweek2 <= 0 && dayoftheweek2 >= 8))
-        {
-            Console.WriteLine("Введите число от 1 до 7-ми, чтобы получить соответствующий день недели");
-            NewMethod1();
-        }
-        else
-        {
-            i++;
-            int dayoftheweek2 = dayoftheweek;
-        }
-    } */
+while (i == 0)
+{
 switch (dayoftheweek)
 {
     case 1:
     Console.WriteLine("Понедельник");
+    i++;
     break;
 
     case 2:
     Console.WriteLine("Вторник");
+     i++;
     break;
 
     case 3:
     Console.WriteLine("Среда");
+     i++;
     break;
 
     case 4:
     Console.WriteLine("Четверг");
+     i++;
     break;
 
     case 5:
     Console.WriteLine("Пятница");
+     i++;
     break;
 
     case 6:
     Console.WriteLine("Суббота");
+     i++;
     break;
 
     case 7:
     Console.WriteLine("Воскресенье");
+     i++;
     break;
 
     default:
-    Console.WriteLine("Вы ввели число, не удовлетворяющее требованиям программы ");
+    Console.WriteLine("Вы ввели число, не удовлетворяющее требованиям программы, попробуйте снова ");
+    Console.WriteLine("Введите число от 1 до 7-ми, чтобы получить соответствующий день недели");
+    int dayoftheweek2 = Convert.ToInt32(Console.ReadLine());
+    dayoftheweek = dayoftheweek2;
     break;
 }
-
-/*static void NewMethod()
-{
-    var dayoftheweek2 = Convert.ToInt32(Console.ReadLine());
-}*/
+}
     break;
     case 4:
 Console.WriteLine("Задача №4 ");
@@ -158,7 +153,13 @@ else
 }
     break;
     case 5:
-    
+Console.WriteLine("Задание №5 ");
+Console.WriteLine("Введите значение, чтобы узнать как с ним изменится функция y=5x+3 ");
+
+int znach = Convert.ToInt32(Console.ReadLine());
+int funk =5*znach+3;
+
+Console.WriteLine($"Функция равняется {funk} ");
     break;
     case 6:
 Console.WriteLine("Задание №6 ");
@@ -203,16 +204,6 @@ for (int g = 0; g < h; Console.WriteLine($"n = {g}"))
 Console.WriteLine("Задание №9 ");
 Console.WriteLine("Введите трёхзначное число чтобы узнать его третью цифру ");
 
-/*int third = Convert.ToInt32(Console.ReadLine());
-
-if (third>99 && third<1000)
-{
-
-}
-else
-{
-    Console.WriteLine("Вы ввели не трёхзначное число ");
-}*/
 string third =Console.ReadLine();
 int th = Convert.ToInt32(third);
 if (th>99)
@@ -260,13 +251,82 @@ else
 Console.WriteLine("Задание №11 ");
 Console.WriteLine("Введите число из отрезка [10;99] чтобы узнать наибольшую цифру числа ");
 
-string one11 =Console.ReadLine();
+string one11 = Console.ReadLine();
 int on11 = Convert.ToInt32(one11);
 
 if (on11>9 && on11<100)
 {
-    
+    if (one11[0]>one11[1])
+    {
+        Console.WriteLine($"Наибольшая цифра - {one11[0]}");
+    }
+    else
+    {
+        Console.WriteLine($"Наибольшая цифра - {one11[1]}");
+    }
+}
+else
+{
+    Console.WriteLine("Вы ввели число, не соответствующее данному отрезку ");
 }
 
+    break;
+    case 12:
+Console.WriteLine("Задание №12 ");
+Console.WriteLine("Введите трёхзначное число чтобы мы удалили его вторую цифру ");
+
+string one12 = Console.ReadLine();
+int on12 = Convert.ToInt32(one12);
+
+if (on12>99 && on12<1000)
+{
+    one12 = String.Concat(one12[0], one12[2]);
+    Console.WriteLine($"Результат - {one12} ");
+}
+else
+{
+    Console.WriteLine("Вы ввели не трёхзначное число ");
+}
+
+    break;
+    case 13:
+Console.WriteLine("Задание №13 ");
+Console.WriteLine("Введите два числа чтобы узнать кратно ли второе первому, либо получить остаток от деления ");
+
+int crat = Convert.ToInt32(Console.ReadLine());
+int crat2 = Convert.ToInt32(Console.ReadLine());
+
+if (crat2%crat == 0)
+{
+    Console.WriteLine("Второе число кратно первому ");
+}
+else 
+{
+    double del = crat2/crat;
+    Console.WriteLine($"Остаток числа от деления второго числа на первое равен {del}");
+}
+    break;
+    case 14:
+Console.WriteLine("Задание №14 ");
+Console.WriteLine("Введите число чтобы узнать его третью цифру ");
+
+string third14 =Console.ReadLine();
+int th14 = Convert.ToInt32(third14);
+if (th14>0)
+{
+    Console.WriteLine($"Третья цифра числа - {third14[2]}");
+}
+else
+{
+    Console.WriteLine($"Третьей цифры у числа нет, либо оно отрицательное и проверено ниже ");
+}
+if (th14<(0))
+{
+    Console.WriteLine($"Третья цифра числа - {third14[3]}");
+}
+else
+{
+    Console.WriteLine($"Третьей цифры у числа однозначно нет ");
+}
     break;
 }
